@@ -12,8 +12,8 @@ Welcome to the first episode of the Rambling Bramble Podcast. In this ramble, I 
 
 <hr>
 
-Inspiration: Instagram Profile @writing.promt.s 
+## Inspiration: Instagram Profile @writing.promt.s 
 
-Prompt:
+### Prompt:
 
 The war had been going on for over 100 years now, not that you had ever seen it, living in the bunker your entire life. But, one day, the news war reporter finally says "I can't do this anymore. Everything is fine, they're lying, they're-", and then the signal cuts out.
