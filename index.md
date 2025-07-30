@@ -14,14 +14,13 @@ title: Rambling Bramble Podcast
 <section>
   <h3>RSS Feed Links</h3>
   <p>
-    <a href="https://rambling-bramble-blog.github.io/podcast/feed.xml">Direct RSS Feed</a><br>
+    <a href="https://rambling-bramble-blog.github.io/podcast/feed.xml">Direct RSS Feed</a><br><br>
     <a href="https://pca.st/goiydyu7">Pocket Casts RSS Feed</a><br>
-    <a href="https://podcasts.apple.com/us/podcast/rambling-bramble-podcast/id1828215244">Apple Podcasts</a><br>
     <a href="https://podcastindex.org/podcast/7420725">Podcast Index</a><br>
-    
+    <a href="https://podcasts.apple.com/us/podcast/rambling-bramble-podcast/id1828215244">Apple Podcasts</a><br>
+    <a href="https://music.amazon.com/podcasts/7e45c59e-36d8-46e7-a5df-abede57202fd/rambling-bramble-podcast">Amazon Music</a><br>
+    <a href="https://www.pandora.com/podcast/rambling-bramble-podcast/PC:1001107465">Pandora</a><br>
+    <a href="https://www.stitcher.com/show/1107465">Stitcher</a><br>
+    <a href="https://www.iheart.com/podcast/269-rambling-bramble-podcast-287990767/">iHeart Radio</a><br>
   </p>
-</section>
-
-<section>
-  <iframe allow="autoplay" width="100%" height="300" src="https://iheart.com/podcast/287990767/?embed=true&sc=widget&pname=submityourpodcast" frameborder="0"></iframe>
 </section>
